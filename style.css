@@ -1,0 +1,13 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+align-items: center;
+
+}
+#heading{
+    margin: 15px;
+}
+#hexcode{
+    margin: 10px;
+}
